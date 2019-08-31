@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "example blockchain code",
+  "main": "index.js",
+  "repository": "git@github.com:victorleandroof/blockchain-nodejs.git",
+  "author": "Victor Leandro",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
